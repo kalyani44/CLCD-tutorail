@@ -2,4 +2,6 @@
 2.dog
 3.cow
 4.rat
-4.rabbit
+4.rabbi
+5.tiger
+6.lion
